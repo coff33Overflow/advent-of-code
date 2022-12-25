@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "aoc"
+version = "0.1.0"
+description = "Python template for Advent of Code event"
+authors = ["Devashish Somani <devashishsomani1995@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+colorama = "^0.4.4"
+python-dotenv = "^0.19.1"
+requests = "^2.26.0"
+beautifulsoup4 = "^4.10.0"
+browser-cookie3 = "^0.6.0"
+DateTime = "^4.8"
+bs4 =  "^0.0.1"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+
+[tool.pytest.ini_options]
+addopts = "-v"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
