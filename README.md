@@ -35,16 +35,16 @@ command:
 
 This command generate these files:
 
-    * creating /aoc/day01/input.txt
-    * creating /aoc/day01/__main__.py
-    * creating /aoc/day01/part1.py
-    * creating /aoc/day01/part2.py
+    * creating /aoc/2021/day01/input.txt
+    * creating /aoc/2021/day01/__main__.py
+    * creating /aoc/2021/day01/part1.py
+    * creating /aoc/2021/day01/part2.py
 
-- `/aoc/day01/input.txt`: you can insert here the input data.
-- `/aoc/day01/problem.txt`: you can find the puzzle problem statement here .
-- `/aoc/day01/__main__.py`: is the main module.
-- `/aoc/day01/part1.py`: solution for part 1.
-- `/aoc/day01/part2.py`: solution for part 2.
+- `/aoc/2021/day01/input.txt`: you can insert here the input data.
+- `/aoc/2021/day01/problem.txt`: you can find the puzzle problem statement here .
+- `/aoc/2021/day01/__main__.py`: is the main module.
+- `/aoc/2021/day01/part1.py`: solution for part 1.
+- `/aoc/2021/day01/part2.py`: solution for part 2.
 
 ## Declare your dependencies
 
@@ -106,4 +106,3 @@ Happy coding!
 <img src="https://eduherminio.github.io/assets/images/2020-11-26-getting-ready-for-aoc-2020/aoc_2015.gif" width="250" height="250"/>
 <img src="https://wp.technologyreview.com/wp-content/uploads/2021/12/reindeer.gif" width="250" height="250"/>
 </p>
-
