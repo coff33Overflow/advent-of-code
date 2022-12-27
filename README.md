@@ -65,7 +65,7 @@ and locks them into the `poetry.lock` file
 
     $ poetry lock
 
-Install dependencies with `poetry.lock`
+Install dependencies with `poetry install`
 
     $ poetry install
 
