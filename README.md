@@ -86,8 +86,15 @@ Folder structure:
     │    │          │── part2.py
     │    │          │── problem.txt
     │    │          └── input.txt 
-    │    └── utils
-    │          └── aoc_utils.py 
+    │    ├── utils
+    │    │     └── aoc_utils.py
+    │    └── gen
+    │         │── templates
+    │         │       ├── __main__.tpl
+    │         │       ├── part1.tpl
+    │         │       └── part2.tpl
+    │         │
+    │         └── __main__.py
 
 Happy coding!
 <br>
